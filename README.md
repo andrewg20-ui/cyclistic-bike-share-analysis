@@ -35,10 +35,10 @@ Key findings:
 ## Visualizations
 
 ### Average Ride Length by User Type
-[Insert image here later]
+![Average Ride Length](visuals/avg_ride_length.png)
 
 ### Ride Frequency by Day of Week
-[Insert image here later]
+![Weekday Usage](visuals/weekday_usage.png)
 
 ---
 
