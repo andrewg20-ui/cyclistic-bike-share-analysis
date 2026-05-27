@@ -35,10 +35,10 @@ Key findings:
 ## Visualizations
 
 ### Average Ride Length by User Type
-![Average Ride Length](visuals/avg_ride_length.png)
+![Average Ride Length](cyclistic-bike-share-analysis/avg_ride_length.png)
 
 ### Ride Frequency by Day of Week
-![Weekday Usage](visuals/weekday_usage.png)
+![Weekday Usage](cyclistic-bike-share-analysis/weekday_usage.png)
 
 ---
 
